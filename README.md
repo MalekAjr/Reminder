@@ -3,3 +3,5 @@ It's a reminder application for people who have a bad memory or maladies and sho
 # Functionnality
 Choose the Medicine name,amount,type(mg or ml) and for how long time you want to repeat it.Choose the medicine form and the time and exactly hour you want to be notificated.
 The data enregistered and showed and when it notifited the user it automaticly deleted.
+
+Finally,it is an easy-to-use and reliable app that helps you remember to take your meds at the right time.
